@@ -1,1 +1,1 @@
-# smartquantumlab
+# quadgentics
